@@ -19,7 +19,7 @@ _Here you shall find miscellaneous items related to <a href="https://drive.googl
 
 ## Alternate rule booklet cover
 
-<a href="booklet/UxD-Cover.svg"><img src="booklet/UxD-Cover.svg" width="600"/></a>
+<a href="booklet/UxD-Cover.pdf"><img src="booklet/UxD-Cover.svg" width="600"/></a>
 
 ## License
 
